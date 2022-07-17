@@ -1,0 +1,17 @@
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\GLProject.exe.config
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\GLProject.exe
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\GLProject.pdb
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenGL.Net.dll
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.dll
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.GLControl.dll
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenGL.Net.pdb
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenGL.Net.xml
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.pdb
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.xml
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\olenk\Desktop\Project 4\GLProject\bin\Debug\OpenTK.GLControl.xml
+C:\Users\olenk\Desktop\Project 4\GLProject\obj\Debug\GLProject.csprojAssemblyReference.cache
+C:\Users\olenk\Desktop\Project 4\GLProject\obj\Debug\GLProject.csproj.CoreCompileInputs.cache
+C:\Users\olenk\Desktop\Project 4\GLProject\obj\Debug\GLProject.csproj.CopyComplete
+C:\Users\olenk\Desktop\Project 4\GLProject\obj\Debug\GLProject.exe
+C:\Users\olenk\Desktop\Project 4\GLProject\obj\Debug\GLProject.pdb
